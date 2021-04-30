@@ -13,4 +13,4 @@ The project to determine the churned customer based on its important features so
 
 ## Result
 
-<img src="cc_output.jpg"/>
+<img src="cc.jpg"/>
